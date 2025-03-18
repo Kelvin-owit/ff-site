@@ -1,0 +1,18 @@
+# Node modules and dependencies
+node_modules/
+
+# Environment variables
+backend/.env
+frontend/.env
+backend/.env.local
+frontend/.env.local
+backend/.env.development
+frontend/.env.development
+backend/.env.production
+frontend/.env.production
+
+# Build and cache folders
+backend/dist/
+frontend/build/
+frontend/.vite/
+.next/
